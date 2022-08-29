@@ -14,11 +14,7 @@ cartoon rendering에 대한 간략한 개념과 구현방법을 설명하고 실
 
 2. 12주차 animation notify을 통해 연속공격 입력 구현
 
-
-
-https://user-images.githubusercontent.com/71004742/187107883-1be026a2-3f85-4771-b17d-107d57a2743d.mp4
-
-
+https://user-images.githubusercontent.com/71004742/187108451-3a56a513-7f0a-4158-b06f-806b4fff3aa8.mp4
 
 Unreal에서 무료로 배포하는 Paragon의 Kwang 에셋을 받아서 사용하였습니다
 
