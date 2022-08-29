@@ -12,7 +12,7 @@ Unreal에서 postprocessing을 이용하여 cartoon rendering같은 느낌을 �
 cartoon rendering에 대한 간략한 개념과 구현방법을 설명하고 실제 구현까지 진행했습니다
 
 
-2. 12주차 animation notify을 통해 연속공격 입력 구현
+# 2. 12주차 animation notify을 통해 연속공격 입력 구현
 
 https://user-images.githubusercontent.com/71004742/187108451-3a56a513-7f0a-4158-b06f-806b4fff3aa8.mp4
 
