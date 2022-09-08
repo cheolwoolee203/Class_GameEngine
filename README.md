@@ -1,7 +1,7 @@
 # Class_GameEngine2021
 GameEngine 수업자료
 
-1. 10주차 Cartoon rendering을 postprocessing으로 구현 (https://lcwoo0707.tistory.com/28?category=1043819)
+## 1. 10주차 Cartoon rendering을 postprocessing으로 구현 (https://lcwoo0707.tistory.com/28?category=1043819)
 
 ![cartoonshader](https://user-images.githubusercontent.com/71004742/187103862-ce14342c-7655-4895-827c-24c64a87ddd1.JPG)
 
@@ -13,7 +13,9 @@ cartoon rendering에 대한 간략한 개념과 구현방법을 설명하고 실
 
 
 
-2. 12주차 animation notify을 통해 연속공격 입력 구현 (https://lcwoo0707.tistory.com/30?category=1043819)
+## 2. 12주차 animation notify을 통해 연속공격 입력 구현 (https://lcwoo0707.tistory.com/30?category=1043819)
+프로젝트에서 사용한 Paragon의 Kwang 캐릭터 에셋의 용량이 너무 커 프로젝트 전체를 올리지 못했습니다
+위 링크의 ppt를 따라가다보면 구현할수있습니다
 
 https://user-images.githubusercontent.com/71004742/187108451-3a56a513-7f0a-4158-b06f-806b4fff3aa8.mp4
 
